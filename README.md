@@ -2,4 +2,4 @@
 where you can upload the cool programs you find and if possibly the source code
 
 
-# The NEJC is connected to The NEJC Discored server
+# This Github Team is connected to The NEJC Discored server
